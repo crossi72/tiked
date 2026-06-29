@@ -1,1 +1,2 @@
 anche questo file è in controllo di versione
+modifica per chiudere la issue
