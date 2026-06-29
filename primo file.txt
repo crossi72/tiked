@@ -1,4 +1,4 @@
 testo di prova per il controllo di versione
 aggiungo alcune righe ad un file
-questa modifica Ã¨ presente solamente nel ramo di sviluppo
-qeusta riga non Ã¨ in conflitto con le altre modifiche
+questa modifica è presente solamente nel ramo di sviluppo
+qeusta riga non è in conflitto con le altre modifiche
